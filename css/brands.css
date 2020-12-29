@@ -272,7 +272,15 @@ button:hover,
 /* Wordpress */
 .button.button-wordpress {
   color: #FFFFFF;
-  background-color: #0073AA }
+  background-color: #003caa }
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
+  filter: brightness(90%) }
+
+/* Ko-fi */
+.button.button-kofi {
+  color: #FFFFFF;
+  background-color: #FF5E5B }
+.button.button-kofi:hover,
+.button.button-kofi:focus {
   filter: brightness(90%) }
